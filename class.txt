@@ -2,7 +2,6 @@ Crimson
 Orange
 Green
 Cyan
-Yellow
 Ivory
 Khaki
 Coral
@@ -11,3 +10,4 @@ Fuchsia
 Gray
 Brown
 Red
+Silver
